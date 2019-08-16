@@ -1,11 +1,11 @@
 # Site settings
 author: Dayron Holguin
-title: 
+title: The Blueprint
 header-img: img/home-bg.png
 email: dayronholguin@yahoo.com
 copyright_name: Dayron Holguin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  speak in codes
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dayronholguin

@@ -6,9 +6,9 @@ permalink:  the_reason_dh
 ---
 
 
-My first blog post! **insert heart emoji**.
+My first blog post! *insert heart emoji*.
 
-**DISCLAIMER: in an attempt to be creative, all my blog posts headers will look like a file name. The ".dh" stands for my initials. Ok here we go.**
+*DISCLAIMER: in an attempt to be creative, all my blog posts headers will look like a file name. The ".dh" stands for my initials. Ok here we go.*
 
 Ummm, hey there reader! Guess I'll start this off by saying: THIS IS HARDER THAN IT LOOKS. 
 
